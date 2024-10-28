@@ -1,0 +1,1 @@
+# gomycode-entity-relationship-model
